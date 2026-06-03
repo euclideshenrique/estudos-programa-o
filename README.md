@@ -16,6 +16,8 @@ O React nos permite programar esses componentes usando uma sintaxe especial (HTM
 
 O Next.js fornece a infraestrutura e a "cola" para juntar e organizar todos esses componentes React nas páginas do site
 
+## PAREI NA PISTA RAPIDA DO DIA 4
+
 
 
 
