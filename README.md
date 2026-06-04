@@ -19,10 +19,3 @@ O Next.js fornece a infraestrutura e a "cola" para juntar e organizar todos esse
 ## PAREI NA PISTA RAPIDA DO DIA 4
 
 
-
-
-
-
----
-## Como navegar por aqui
-Cada dia de estudo está salvo como um arquivo separado (ex: `dia-01.md`).  
